@@ -1,0 +1,102 @@
+@media(max-width:1200px){
+	.aboutinfo{
+		top: 10%;
+	}
+	.aboutinfo .heading{
+			font-size: 28px;
+
+	}
+	.aboutinfo .subtitle{
+			font-size: 20px;
+
+	}
+	.aboutinfo .description{
+			font-size: 16px;
+	    color: #918f8f;
+	    line-height: 24px;
+	}
+}
+
+@media(max-width:991px){
+	.aboutinfo{
+		top: 0;
+		padding:10px 20px;
+	}
+	.about img{
+		transform: translateX(0px);
+	}
+.aboutinfo{
+	transform: translateX(0px);
+}
+	.aboutinfo .heading{
+			font-size: 25px;
+
+	}
+	.aboutinfo .subtitle{
+			font-size: 18px;
+
+	}
+	.aboutinfo .description{
+			font-size: 15px;
+	    color: #918f8f;
+	    line-height: 22px;
+	}
+}
+
+@media(max-width:770px){
+	.intro-1 p,.intro-2 p{
+		font-size: 20px;
+	}
+	.dropdown-style{
+
+		border: none;
+
+	}
+	.dropdown-item{
+		padding-left: 0!important;
+
+	}
+	.about .box-about img{
+		width: 100%;
+	}
+
+.aboutinfo .heading{
+		font-size: 28px;
+
+}
+.aboutinfo .subtitle{
+		font-size: 20px;
+
+}
+.aboutinfo .description{
+		font-size: 16px;
+    color: #918f8f;
+    line-height: 24px;
+}
+.services{
+	margin-top: 310px;
+}
+.map iframe{
+	top: 0;
+}
+footer{
+	clip-path:polygon(0 0,100% 0, 100% 100%,0 100%);
+}
+}
+
+@media(max-width: 538px){
+		.about-box .box-about a .aboutinfo{
+
+}
+}
+
+
+@media(max-width: 530px){
+	.for-slick{
+		top: 20px;
+	}
+	.intro-1 h1,.intro-2 h1{
+		font-size: 35px;
+}
+
+}
